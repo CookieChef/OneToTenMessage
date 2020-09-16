@@ -1,0 +1,13 @@
+C:\Users\s_mar\Melissa\OneToTenMessage\bin\Debug\netcoreapp3.1\OneToTenMessage.exe
+C:\Users\s_mar\Melissa\OneToTenMessage\bin\Debug\netcoreapp3.1\OneToTenMessage.deps.json
+C:\Users\s_mar\Melissa\OneToTenMessage\bin\Debug\netcoreapp3.1\OneToTenMessage.runtimeconfig.json
+C:\Users\s_mar\Melissa\OneToTenMessage\bin\Debug\netcoreapp3.1\OneToTenMessage.runtimeconfig.dev.json
+C:\Users\s_mar\Melissa\OneToTenMessage\bin\Debug\netcoreapp3.1\OneToTenMessage.dll
+C:\Users\s_mar\Melissa\OneToTenMessage\bin\Debug\netcoreapp3.1\OneToTenMessage.pdb
+C:\Users\s_mar\Melissa\OneToTenMessage\obj\Debug\netcoreapp3.1\OneToTenMessage.csprojAssemblyReference.cache
+C:\Users\s_mar\Melissa\OneToTenMessage\obj\Debug\netcoreapp3.1\OneToTenMessage.AssemblyInfoInputs.cache
+C:\Users\s_mar\Melissa\OneToTenMessage\obj\Debug\netcoreapp3.1\OneToTenMessage.AssemblyInfo.cs
+C:\Users\s_mar\Melissa\OneToTenMessage\obj\Debug\netcoreapp3.1\OneToTenMessage.csproj.CoreCompileInputs.cache
+C:\Users\s_mar\Melissa\OneToTenMessage\obj\Debug\netcoreapp3.1\OneToTenMessage.dll
+C:\Users\s_mar\Melissa\OneToTenMessage\obj\Debug\netcoreapp3.1\OneToTenMessage.pdb
+C:\Users\s_mar\Melissa\OneToTenMessage\obj\Debug\netcoreapp3.1\OneToTenMessage.genruntimeconfig.cache
